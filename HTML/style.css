@@ -1,0 +1,26 @@
+ol,
+ul,
+li{
+    list-style: none;
+}
+
+.example{
+    color: white;
+display: flex;
+}
+
+.example-item{
+   
+    height: 250px;
+    width: 12%;
+    margin: 5px;
+}
+.example-item_first{
+    background-color: black;
+}
+.example-item_second{
+    background-color: red;
+}
+.example-item_third{
+    background-color: pink;
+}
